@@ -10,4 +10,5 @@ My Learning journal for code fellows!
 - surround yourself with like minded people
 
 
-[Link to LG Github](alathonman22.github.io/reading-notes/)
+[Link to LG Github](https://github.com/alathonman22)
+
